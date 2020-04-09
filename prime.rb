@@ -1,6 +1,8 @@
 # Add  code here!
-
-
+# 
+# prime?
+#   returns true for prime numbers
+#   returns false for non-prime numbers
 
 
 
